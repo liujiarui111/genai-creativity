@@ -1,0 +1,14 @@
+metric,reported_result
+Valid responses,519
+Measurement items,36
+Bootstrap samples,"5,000"
+Indicator loading range,0.725-0.895
+Cronbach alpha range,0.863-0.946
+Composite reliability range,0.907-0.953
+AVE,All constructs above 0.50
+HTMT,All values below 0.85
+VIF,All values below 3.3
+R-squared AI literacy,0.169
+R-squared creative self-efficacy,0.259
+R-squared creativity,0.499
+

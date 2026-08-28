@@ -1,0 +1,6 @@
+path,beta,p_value
+GenAI assistance -> Creative self-efficacy -> Creativity,0.134,<0.001
+GenAI assistance -> AI literacy -> Creativity,0.074,<0.001
+AI literacy -> Creative self-efficacy -> Creativity,0.055,0.001
+GenAI assistance -> AI literacy -> Creative self-efficacy,0.070,0.001
+
