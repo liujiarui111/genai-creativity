@@ -1,8 +1,0 @@
-relationship,beta,p_value,interpretation
-GenAI assistance -> Creativity,0.331,0.008,Supported
-GenAI assistance -> Creative self-efficacy,0.485,<0.001,Supported
-Creative self-efficacy -> Creativity,0.323,<0.001,Supported
-GenAI assistance -> AI literacy,0.411,<0.001,Supported
-AI literacy -> Creativity,0.236,<0.001,Supported
-AI literacy -> Creative self-efficacy,0.169,<0.001,Supported
-
