@@ -15,13 +15,6 @@ This study examines how generative AI assistance is associated with university s
 5. Interpreted direct, indirect, and explanatory effects.
 6. Converted the findings into a conference manuscript.
 
-## Selected findings
-
-- All six proposed direct relationships were supported.
-- Generative AI assistance was positively associated with creativity, AI literacy, and creative self-efficacy.
-- AI literacy and creative self-efficacy provided complementary mediation pathways.
-- The model explained 49.9% of the variance in creativity.
-
 ## My contribution
 
 As first author, I worked across questionnaire design, data preparation, PLS-SEM analysis, interpretation, visualization, and manuscript preparation.
@@ -30,8 +23,7 @@ As first author, I worked across questionnaire design, data preparation, PLS-SEM
 
 - `data/` - data availability and confidentiality statement
 - `documentation/` - research design and verified conference status
-- `results/` - selected, portfolio-safe model outputs
-- `reports/` - printable one-page project summary
+- `reports/` - printable one-page project summary (methods only; no results)
 
 ## Tools
 
@@ -43,5 +35,5 @@ Paper ID: **CE1265**. Accepted for oral presentation and publication at ICET 202
 
 ## Confidentiality
 
-The camera-ready manuscript, full abstract, raw questionnaire responses, item-level data, and acceptance letter are intentionally excluded. This repository contains only a portfolio-safe overview and selected results.
+The camera-ready manuscript, full abstract, raw questionnaire responses, item-level data, model results, and acceptance letter are intentionally excluded. This repository describes the research workflow only.
 
